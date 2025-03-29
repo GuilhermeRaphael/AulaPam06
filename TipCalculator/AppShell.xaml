@@ -7,9 +7,15 @@
     Shell.FlyoutBehavior="Disabled"
     Title="TipCalculator">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <TabBar>
+        <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
 
+        <ShellContent
+               Title="Pagina2"
+               ContentTemplate="{DataTemplate local:Pag2}"
+               Route="Pag2"/>
+    </TabBar>
 </Shell>
