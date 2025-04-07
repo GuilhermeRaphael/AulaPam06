@@ -15,3 +15,5 @@
 ### Após, na parte superior do programa, é exibido botao "Windows Machine" clicar nele para executar aplicação.
 
 ![image](https://github.com/user-attachments/assets/ed7ea869-e6f0-4cac-9135-cc9840941463)
+
+### Ao executar a aplicação, a tela a ser retornada deve ser igual,
